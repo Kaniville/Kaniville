@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NC0oXLfalBrIGlbpKw/giphy.gif" width="200"/>  
+  <img src="https://media.giphy.com/media/Tgxr8pn069Sf7mgv0e/giphy.gif" width="200"/>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/marchandleo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
