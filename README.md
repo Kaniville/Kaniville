@@ -7,7 +7,6 @@
     <a href="https://hub.docker.com/u/kaniville">
       <img src="https://img.shields.io/badge/Docker-green?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Kaniville&color=blueviolet&style=for-the-badge" alt="views badge"/>
   </div>
 </div>
 
