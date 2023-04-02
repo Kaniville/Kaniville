@@ -10,7 +10,7 @@
 
 ## About me ❯
 <div id="about">
-<p>Hello, I'm a french student which ❤️ Open-source software.</p>
+<p>Hello, I'm a french student who ❤️ Open-source software.</p>
 <ul>
   <li>I use Archlinux since 2019. 🎊</li>
   <li>Currently in 2nd year of BTS SNIR in Vitry-le-François. 🖥️</li>
