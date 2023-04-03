@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="200"/>  
+  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/marchandleo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
@@ -7,6 +7,7 @@
     <a href="https://hub.docker.com/u/kaniville">
       <img src="https://img.shields.io/badge/Docker-green?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Kaniville&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </div>
 </div>
 
@@ -26,17 +27,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Php" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Mysql" width="60"/>
-  
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" alt="Nixos" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="60"/>
-  
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="60"/>
-    
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60"/>
