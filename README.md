@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/marchandleo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Kaniville&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=kaniville&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </div>
 </div>
 
@@ -45,6 +45,6 @@
 
 ## My statistics ❯
 <div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Kaniville&show_icons=true" alt="Repo statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaniville" alt"Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=kaniville&show_icons=true" alt="Repo statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniville" alt"Top languages" />
 </div>
