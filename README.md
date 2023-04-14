@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/marchandleo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
     </a>
-    <a href="https://hub.docker.com/u/kaniville">
-      <img src="https://img.shields.io/badge/Docker-green?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge"/>
-    </a>
     <img src="https://komarev.com/ghpvc/?username=Kaniville&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </div>
 </div>
