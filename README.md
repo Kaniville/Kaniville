@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="200"/>
-  <p style="font-style: italic;">"How many programmers does it take to change a light bulb? None, that’s a hardware problem."</p>
+  <p>"How many programmers does it take to change a light bulb? None, that’s a hardware problem."</p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/marchandleo">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
