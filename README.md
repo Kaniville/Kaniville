@@ -13,8 +13,8 @@
 <div id="about">
 <p>Hello, I'm a french student who ❤️ Open-source software.</p>
 <ul>
-  <li>I use Archlinux since 2019. 🎊</li>
-  <li>Currently in 2nd year of BTS SNIR in Vitry-le-François. 🖥️</li>
+  <li>I use Linux since 2018. 🎊</li>
+  <li>Currently studying for a bachelor's degree in systems and network administration at CESI in Reims. 🖥️</li>
   <li>Especially in love with bass guitar ! 🎸</li>
 </ul>
 
