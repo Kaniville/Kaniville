@@ -11,9 +11,3 @@
   <li>Especially in love with bass guitar ! 🎸</li>
   <li>Love playing indie games. 🎮</li>
 </ul>
-
-## My statistics ❯
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=steadywool&show_icons=true" alt="Repo statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadywool" alt="Top languages" />
-</div>
