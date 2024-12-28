@@ -6,5 +6,4 @@
   <a href="https://www.linkedin.com/in/marchandleo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=steadywool&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </div>
