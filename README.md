@@ -6,10 +6,5 @@
   <a href="https://www.linkedin.com/in/marchandleo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
   </a>
-</div>
-
-</br>
-
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=steadywool&show_icons=true&hide=prs,issues,contribs&rank_icon=github" alt="Repo statistics" />
+  <img src="https://komarev.com/ghpvc/?username=steadywool&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </div>
