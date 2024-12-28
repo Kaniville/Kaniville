@@ -11,6 +11,6 @@
 </br>
 
 <div id="stats" align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/?username=steadywool&theme=transparent&show_icons=true" alt="Repo statistics" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadywool&theme=transparent" alt="Top languages" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/?username=steadywool&show_icons=true" alt="Repo statistics" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadywool" alt="Top languages" />
 </div>
